@@ -1,4 +1,4 @@
-// pull from different file
+// pulled from different file
 const secret_api ='ENTER_YOUR_API'
 const bypass_cors_url = 'https://cors-anywhere.herokuapp.com/'
 const api_uri = 'https://geo.ipify.org/api/'
